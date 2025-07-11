@@ -10,7 +10,8 @@
 ### 과제 2 - yolov5 거리 추정 실습
 - PyTorch와 yolov5로 객체를 탐지하고, 바운딩 박스 크기를 이용해 실제 거리(cm) 추정
 - 거리 추정 공식 : 실제높이(cm) x 초점거리(px) / 바운딩 박스 높이(px)
-<img src="images/과제2_(1).jpg" width="200"/>
+
+<img src="images/과제2_(1).jpg" width="200"/> <img src="images/과제2_(2).jpg" width="200"/> 
 
 
   
